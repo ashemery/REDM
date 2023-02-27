@@ -1,1 +1,1 @@
-The compiled code that was used for this course.
+The compiled code that is being used for this course.
